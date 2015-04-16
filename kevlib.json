@@ -1,6 +1,6 @@
 {
-    "class": "org.kevoree.ContainerRoot@0.66205598250962791429192517728",
-    "generated_KMF_ID": "0.66205598250962791429192517728",
+    "class": "org.kevoree.ContainerRoot@0.428337847581133251429192562321",
+    "generated_KMF_ID": "0.428337847581133251429192562321",
     "nodes": [],
     "repositories": [],
     "hubs": [],
@@ -35,8 +35,8 @@
                                     "superTypes": [],
                                     "dictionaryType": [
                                         {
-                                            "class": "org.kevoree.DictionaryType@0.46401972160674631429192517776",
-                                            "generated_KMF_ID": "0.46401972160674631429192517776",
+                                            "class": "org.kevoree.DictionaryType@0.52791071031242611429192562352",
+                                            "generated_KMF_ID": "0.52791071031242611429192562352",
                                             "attributes": [
                                                 {
                                                     "class": "org.kevoree.DictionaryAttribute@uuid",
