@@ -1,6 +1,6 @@
 {
-    "class": "org.kevoree.ContainerRoot@0.5681211566552521429190588341",
-    "generated_KMF_ID": "0.5681211566552521429190588341",
+    "class": "org.kevoree.ContainerRoot@0.66205598250962791429192517728",
+    "generated_KMF_ID": "0.66205598250962791429192517728",
     "nodes": [],
     "repositories": [],
     "hubs": [],
@@ -21,22 +21,22 @@
                             "packages": [],
                             "typeDefinitions": [
                                 {
-                                    "class": "org.kevoree.ChannelType@name=MQTTChannel,version=5.2.0-SNAPSHOT",
+                                    "class": "org.kevoree.ChannelType@name=MQTTChannel,version=5.2.9-SNAPSHOT",
                                     "upperFragments": "0",
                                     "abstract": "false",
                                     "upperBindings": "0",
                                     "lowerBindings": "0",
                                     "lowerFragments": "0",
                                     "name": "MQTTChannel",
-                                    "version": "5.2.0-SNAPSHOT",
+                                    "version": "5.2.9-SNAPSHOT",
                                     "deployUnits": [
-                                        "packages[org]/packages[kevoree]/packages[library]/deployUnits[hashcode=,name=kevoree-chan-mqtt,version=5.2.0-SNAPSHOT]"
+                                        "packages[org]/packages[kevoree]/packages[library]/deployUnits[hashcode=,name=kevoree-chan-mqtt,version=5.2.9-SNAPSHOT]"
                                     ],
                                     "superTypes": [],
                                     "dictionaryType": [
                                         {
-                                            "class": "org.kevoree.DictionaryType@0.137284900294616821429190588367",
-                                            "generated_KMF_ID": "0.137284900294616821429190588367",
+                                            "class": "org.kevoree.DictionaryType@0.46401972160674631429192517776",
+                                            "generated_KMF_ID": "0.46401972160674631429192517776",
                                             "attributes": [
                                                 {
                                                     "class": "org.kevoree.DictionaryAttribute@uuid",
@@ -76,11 +76,11 @@
                             ],
                             "deployUnits": [
                                 {
-                                    "class": "org.kevoree.DeployUnit@hashcode=,name=kevoree-chan-mqtt,version=5.2.0-SNAPSHOT",
+                                    "class": "org.kevoree.DeployUnit@hashcode=,name=kevoree-chan-mqtt,version=5.2.9-SNAPSHOT",
                                     "name": "kevoree-chan-mqtt",
                                     "hashcode": "",
                                     "url": "",
-                                    "version": "5.2.0-SNAPSHOT",
+                                    "version": "5.2.9-SNAPSHOT",
                                     "requiredLibs": [],
                                     "filters": [
                                         {

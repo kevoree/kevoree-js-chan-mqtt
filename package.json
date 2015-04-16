@@ -1,6 +1,6 @@
 {
   "name": "kevoree-chan-mqtt",
-  "version": "5.2.0-SNAPSHOT",
+  "version": "5.2.9-SNAPSHOT",
   "main": "./lib/MQTTChannel.js",
   "description": "A Kevoree channel that uses MQTT to broadcast messages",
   "kevoree": {
